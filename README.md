@@ -1,3 +1,3 @@
 # cpp
 
-Data Structures Implementation and Pratice Code.
+Data Structure Implementation and Pratice Code.
