@@ -36,6 +36,6 @@ int main(int argc, char *argv[]) {
     
     auto result = sol.search(vector<int>{1, 2, 3, 4, 6}, 6);
     cout << "pair with target sum: [ " << result[0] << ", " << result[1] << " ]"<< endl;
-    result = sol.search(vector<int>{2, 6, 2, 5, 9}, 11);
+    result = sol.search(vector<int>{2, 2,3, 5, 9}, 11);
     cout << "pair with target sum: [ " << result[0] << ", " << result[1] << " ]"<< endl;
 }
